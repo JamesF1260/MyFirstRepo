@@ -1,3 +1,5 @@
+import time 
+
 print("Give me a noun")
 noun1 = input()
 
@@ -25,3 +27,5 @@ print("So he went up to " + city1 + " the stadium was crowded")
 print("Thier was tons of " + group + " they wanted the" + team1 + " team to win")
 print("But, " + noun1 + " wanted the " + team2 + " team to win" )
 print("The fans were excited because " +person1 + " was the team captain for the " + team1 + " team")
+
+time.sleep(100)
